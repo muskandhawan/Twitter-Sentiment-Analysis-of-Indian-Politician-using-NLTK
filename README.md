@@ -1,3 +1,4 @@
+# DETAILED EXPLANATION VISIT MY BLOG:-https://medium.com/@muskandhawan5/sentiment-analysis-on-narendra-modis-twitter-data-using-twitter-api-2dd33578d5a0
 # Twitter-Sentiment-Analysis-of-Indian-Politician-using-NLTK
 Real time fetching of Tweets of Politicians of India using Twitter API. Analyzing them and finding out some hidden insights of their posting pattern.
 
